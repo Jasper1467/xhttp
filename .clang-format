@@ -1,0 +1,4 @@
+Language: Cpp
+BasedOnStyle: GNU
+DerivePointerAlignment: false
+PointerAlignment: Left
